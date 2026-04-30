@@ -1,0 +1,8 @@
+.cache/
+.env
+.venv/
+__pycache__/
+*.pyc
+torchinductor_*/
+.DS_Store
+*.log
